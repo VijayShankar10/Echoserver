@@ -21,8 +21,8 @@ Testing the server and client
 
 ## PROGRAM:
 ```
-Name : T S Yamunaasri
-Reg no: 212222240117
+Name : Vijay Shankar M
+Reg no: 212222040178
 ```
 ### Server code
 ```
